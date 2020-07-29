@@ -1,7 +1,15 @@
 # Einleitung
-Dieses Repositorium dient zur Beweissammlung gegen `Frau Elisabeth Kellerwessel`.
+Dieses Repositorium dient zur Beweissammlung gegen `Frau Elisabeth Kellerwessel`: https://koelner-tierklinik.de/
 
-Darüber hinaus wird dieses als Referenz für meine Bewertung auf `jameda.de` und `maps.google.de`.
+```no-highlight
+Tierklinik Kellerwessel in Köln
+Rennebergstr. 23
+50939 Köln
+
+E-Mail: info@koelner-tierklinik.de
+```
+
+Darüber hinaus wird dieses als Referenz für meine Bewertung auf `jameda.de` und `maps.google.de` genutzt.
 
 # Begriffserklärungen
 * [Insuffizient](https://flexikon.doccheck.com/de/Insuffizient)
