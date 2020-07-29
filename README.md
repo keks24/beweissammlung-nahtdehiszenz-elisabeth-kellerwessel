@@ -18,6 +18,6 @@ Darüber hinaus wird dieses als Referenz für meine Bewertung auf `jameda.de` un
 # Spiegelkopien
 * lokal zu Hause
 * [codeberg.org](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel) (Hauptkonto, `Issues` und `Pull-Requests` bitte hier.)
-* [gitea.com](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
-* [github.com](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
-* [gitlab.com](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
+* [gitea.com](https://gitea.com/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
+* [github.com](https://github.com/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
+* [gitlab.com](https://gitlab.com/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
