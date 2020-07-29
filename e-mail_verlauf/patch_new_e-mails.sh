@@ -23,10 +23,12 @@ checkCommands
 
 # define global variables
 IFS=$'\n'
+home_directory="/home/$(/usr/bin/id --user --name)"
+download_directory="${home_directory}/downloads"
 email_filename="Beschwerde und Entschädigung: Operation, Katze, EKH, Schmusi, 18.07.2020.eml"
 current_email_file="${email_filename}"
 # bad use of "ls" here, but it does its job. :)
-new_email_file="$(/bin/ls /home/$(/usr/bin/id --user --name)/downloads/*${email_filename})"
+new_email_file="$(/bin/ls ${download_directory}/*${email_filename})"
 email_patch_file="${email_filename}.patch"
 declare -a email_file_list
 email_file_list=("${current_email_file}" "${new_email_file}")
@@ -45,19 +47,6 @@ checkIfFileExists()
         fi
     done
     unset file
-}
-
-cleanUp()
-{
-    local file_list="${1} ${2}"
-
-    for file in ${file_list}
-    do
-        if [[ -f "${file}" ]]
-        then
-            /bin/rm "${file}"
-        fi
-    done
 }
 
 compareChecksums()
@@ -97,7 +86,8 @@ main()
 
     patchEmailFile
 
-    cleanUp "${new_email_file}"
+    # cleanup
+    /bin/rm "${download_directory}"/*.eml
 }
 
 main
