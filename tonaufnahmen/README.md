@@ -13,7 +13,7 @@
 ### 11:44
 > [...] was ich sehr merkwüdig finde; also, jetzt angenommen, diese "Jameda"-Bewertungen oder auch die Bewertungen bei "Google" würden jetzt alle stimmen.
 
-... Und ich habe halt gesehen, dass es Paralleln zu meinem aktuellen Fall gibt und nicht davon ausgehen kann, dass das nur ein Einzelfall ist. Das ganze wird dann mit der Aussage von Frau Busch auch noch untermauert, die Sie kennt. Also muss da, meiner Meinung nach, eine gewisse Methodik dahinterstecken, die vermutlich schon länger praktiziert wird.
+... Und ich habe halt gesehen, dass es Paralleln zu meinem aktuellen Fall gibt und nicht davon ausgehen kann, dass das nur ein Einzelfall ist. Das Ganze wird dann mit der Aussage von Frau Busch auch noch untermauert, die Sie kennt. Also muss da, meiner Meinung nach, eine gewisse Methodik dahinterstecken, die vermutlich schon länger praktiziert wird.
 
 ### 24:30
 > [...] also war es dann richtig die Nähte schon nach zehn Tagen zu ziehen? Weil es war schon so ...
