@@ -38,6 +38,8 @@ Ich:
 
 Randnotiz:
 
+Meine Vermutung, die ich vor der Unterschrift hatte, hatte sich voll und ganz bestätigt: Die Behandlung hatte im Endeffekt tatsächlich ca. `322€` gekostet.
+
 Was ich hier unterschrieben hatte, weiß ich nicht mehr genau. Allerdings hatte ich im Nachhinein bei meinen Recherchen ein Gesetzestext über die `Gebührenordnung für Tierärzte (GOT)` gelesen:
 
 § 4 Sonstige abweichende Gebührensätze
