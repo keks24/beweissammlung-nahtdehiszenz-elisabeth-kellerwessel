@@ -2,7 +2,7 @@
 ## [Diskussion mit Frau Eberhart im Arztraum vor der Operation (18.07.2020, ca. 20:00 Uhr)](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel/src/branch/master/e-mail_verlauf/Beschwerde%20und%20Entsch%c3%a4digung:%20Operation,%20Katze,%20EKH,%20Schmusi,%2018.07.2020.eml#L69-L70)
 
 Frau Eberhart:
-> Ich möchte Schmusi gerne nach der Operation für die Nacht hierbehalten, damit wir sie nach der Anästhesie beobachten können, da es hier zu Komplikationenen kommen könnte.
+> Ich möchte Schmusi gerne nach der Operation für die Nacht hierbehalten, damit wir sie nach der Anästhesie beobachten können, da es hier zu Komplikationen kommen könnte.
 
 Ich:
 > Von mir aus könnte ich Schmusi auch nach der Operation mit nach Hause nehmen. Bei mir in der Nähe befindet sich ein Tierarzt, der nur fünf Minuten entfernt ist. Im Notfall würde ich dort hingehen.
@@ -14,7 +14,7 @@ Frau Eberhart:
 
 Ich:
 > Ich habe dabei auch an meine Katze gedacht.
-> Wenn ich Schmusi noch in der Nacht abhole, sind weniger Leute in Bus und Bahn; ich habe kein Auto. Sie könnte dann wesentlich entspannter mit mir nach Hause fahren.
+> Wenn ich Schmusi noch in der Nacht abhole, sind weniger Leute in Bus und Bahn; ich habe kein Auto. Vor fremden Leuten hat sie angst und dadurch könnte sie dann wesentlich entspannter mit mir nach Hause fahren.
 
 Frau Eberhart (wehrend):
 > OK, dann holen Sie sie um 01:00 Uhr ab.
@@ -38,7 +38,7 @@ Ich
 
 Randnotiz:
 
-Was ich hier unterschrieben hatte, weiß ich nicht mehr genau. Allerdings hatte ich bei meinen Recherchen ein Gesetzestext über die `Tierärztegebührenordnung (GOT)` gelesen:
+Was ich hier unterschrieben hatte, weiß ich nicht mehr genau. Allerdings hatte ich bei meinen Recherchen ein Gesetzestext über die `[Tierärztegebührenordnung (GOT)](https://www.gesetze-im-internet.de/got/BJNR169100999.html)` gelesen:
 
 § 4 Sonstige abweichende Gebührensätze
 > Überschreitungen des Dreifachen der Gebührensätze oder eine Unterschreitung der einfachen Gebührensätze sind im begründeten Einzelfall vor Erbringung der Leistung des Tierarztes in einem Schriftstück zu vereinbaren. [...]
@@ -50,4 +50,5 @@ Ich war der einzige "Notfall", der um ca. 19:30 Uhr mit Schmusi reinkam. Als ich
 Als ich Schmusi dort abgegeben hatte, habe ich noch gesehen, dass nur eine weitere Frau im Wartezimmer mit ihrem Hund(?) saß.
 
 Quelle:
+
 Tierärztegebührenordnung: https://www.gesetze-im-internet.de/got/BJNR169100999.html
