@@ -48,3 +48,6 @@ Daher gehe ich davon aus, dass hier die `Überschreitung` angestrebt wurde und i
 Zur allgemeinen Stimmung in der Klink: Diese hatte mir nicht den Eindruck gegeben, dass gerade viele Notfälle reinkommen; sprich, sie waren gerade im Leerlauf.
 Ich war der einzige "Notfall", der um ca. 19:30 Uhr mit Schmusi reinkam. Als ich am Eingang stand, stand vor mir eine Frau an der Rezeption, die gerade die Behandlung ihrer Katze(?) angezahlt hatte. Eine weitere Frau kam noch rein, als ich im Wartezimmer das Aufnahmeformular ausfüllte. Das Rufbereitschaftstelefon an der Rezeption hat, gefühlt, nur drei-, viermal geklingelt, wobei sich das für mich nicht nach Notfällen angehört hatte. Die Frau an der Rezeption konnte bereits die Person am Telefon beraten.
 Als ich Schmusi dort abgegeben hatte, habe ich noch gesehen, dass nur eine weitere Frau im Wartezimmer mit ihrem Hund(?) saß.
+
+Quelle:
+Tierärztegebührenordnung: https://www.gesetze-im-internet.de/got/BJNR169100999.html
