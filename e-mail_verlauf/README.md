@@ -38,7 +38,7 @@ Ich
 
 Randnotiz:
 
-Was ich hier unterschrieben hatte, weiß ich nicht mehr genau. Allerdings hatte ich bei meinen Recherchen ein Gesetzestext über die `Tierärztegebührenordnung (GOT)` gelesen:
+Was ich hier unterschrieben hatte, weiß ich nicht mehr genau. Allerdings hatte ich im Nachhinein bei meinen Recherchen ein Gesetzestext über die `Gebührenordnung für Tierärzte (GOT)` gelesen:
 
 § 4 Sonstige abweichende Gebührensätze
 > Überschreitungen des Dreifachen der Gebührensätze oder eine Unterschreitung der einfachen Gebührensätze sind im begründeten Einzelfall vor Erbringung der Leistung des Tierarztes in einem Schriftstück zu vereinbaren. [...]
