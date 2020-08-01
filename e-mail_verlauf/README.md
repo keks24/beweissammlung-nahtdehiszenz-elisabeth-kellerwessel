@@ -33,7 +33,7 @@ Ich (mit meiner Skepsis und dem Gedanken, dass die Behandlung höchstwahrscheinl
 Frau Eberhart:
 > Ja, lesen Sie sich das erstmal durch und unterschreiben dann.
 
-Ich
+Ich:
 > *Ich unterschrieb den Zettel und bin darauf hin gegangen.*
 
 Randnotiz:
