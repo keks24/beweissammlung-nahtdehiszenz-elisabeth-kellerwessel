@@ -1,5 +1,5 @@
 # Gedankenprotokoll
-## [Diskussion mit Frau Eberhart im Arztraum vor der Operation (18.07.2020, ca. 20:00 Uhr)](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel/src/branch/master/e-mail_verlauf/Beschwerde%20und%20Entsch%c3%a4digung:%20Operation,%20Katze,%20EKH,%20Schmusi,%2018.07.2020.eml)
+## [Diskussion mit Frau Eberhart im Arztraum vor der Operation (18.07.2020, ca. 20:00 Uhr)](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel/src/branch/master/e-mail_verlauf/Beschwerde%20und%20Entsch%c3%a4digung:%20Operation,%20Katze,%20EKH,%20Schmusi,%2018.07.2020.eml#L69-L70)
 
 Frau Eberhart:
 > Ich möchte Schmusi gerne nach der Operation für die Nacht hierbehalten, damit wir sie nach der Anästhesie beobachten können, da es hier zu Komplikationenen kommen könnte.
