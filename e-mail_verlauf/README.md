@@ -22,8 +22,11 @@ Frau Eberhart (wehrend):
 
 Ich (nachgebend):
 > OK, dann hole ich Sie um 07:00 Uhr ab.
+> Ich muss Sie aber warnen: Es kann sein, dass Schmusi nach mir rufen wird, da sie unglaubliche Trennungsängste hat.
+> Schon, wenn ich nur 15 Minuten im Badezimmer bin, läuft sie durch die Wohnung und ruft nach mir.
 
 Frau Eberhart:
+> Wir werden Sie auf jeden Fall kontaktieren, wenn dieser Fall eintreffen sollte; wenn es gar nicht anders mehr geht.
 > Gut, dann sehen wir uns um 07:00 Uhr.
 > Wenn Sie noch diesen Zettel unterschreiben könnten. Die Operation wird auf auf jeden Fall unter `350€` kosten.
 
@@ -34,7 +37,7 @@ Frau Eberhart:
 > Ja, lesen Sie sich das erstmal durch und unterschreiben dann.
 
 Ich:
-> *Ich unterschrieb den Zettel und bin darauf hin gegangen.*
+> *Ich unterschrieb den Zettel. Wir hatten uns verabschiedet und ich bin darauf hin gegangen.*
 
 Randnotiz:
 
