@@ -23,6 +23,4 @@ Darüber hinaus wird dieses als Referenz für meine Bewertung auf `jameda.de` un
 * [gitlab.com](https://gitlab.com/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel)
 
 # Lizenz
-Keine Lizenz. Alle Rechte vorbehalten.
-* [What can I assume if a publicly published project has no license?](https://opensource.stackexchange.com/a/1721)
-* [No license](https://choosealicense.com/no-permission/)
+Siehe [LICENSE.md](LICENSE.md).
