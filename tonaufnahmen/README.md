@@ -46,7 +46,7 @@ Die Datei habe ich aus Speicherplatzgründen zu einer `mp3-Datei` umgewandelt:
 | `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.wav` | 155.990.060                 | 00:29:28.59                  | Originaldatei, unbearbeitet
 | `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.mp3` | 21.108.538                  | 00:29:28.65                  | bearbeitet und umgewandelt
 
-Mein Smartphone<sup>[1](README.md#smartphone)</sup> hatte bei der Aufnahme `00:29:09` angezeigt.
+Mein Smartphone<sup>[1](README.md#user-content-smartphone)</sup> hatte bei der Aufnahme `00:29:09` angezeigt.
 
 ## Checksummen
 ```no-highlight
