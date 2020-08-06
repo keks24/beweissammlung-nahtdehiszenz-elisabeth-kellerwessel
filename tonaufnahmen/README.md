@@ -1,4 +1,4 @@
-# Wie man die Datei herunerlädt
+# Wie man die Datei herunterlädt
 [![tonaufnahme_herunterladen.png](tonaufnahme_herunterladen.png)](tonaufnahme_herunterladen.png)
 
 # `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.mp3`
