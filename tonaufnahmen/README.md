@@ -37,7 +37,7 @@ Die Datei habe ich aus Speicherplatzgründen zu einer `mp3-Datei` umgewandelt:
 
 ...nach der Wundtoilette konnte ich ganz klar sehen, dass die Entzündung die Wunde signifikant vergrößerte. Es musste viel nekrotisches Material entfernt werden, um die Wunde überhaupt wieder schließen zu können.
 
-## Stellen, die ich aus datenschutztechnischen Gründen zensieren musste
+## Zeiträume, die ich aus datenschutztechnischen Gründen zensieren musste
 ### 01:11 - 01:13
 Frau an der Rezeption hatte der Aufnahme nicht zugestimmt.
 
