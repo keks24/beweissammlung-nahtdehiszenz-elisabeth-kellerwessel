@@ -41,10 +41,14 @@ Tastaturgeräusche im Hintergrund.
 # `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.wav`
 Die Datei habe ich aus Speicherplatzgründen zu einer `mp3-Datei` umgewandelt:
 
-| Dateiname                                                             | Dateigröße in Byte          | Kommentar
-| --------------------------------------------------------------------- | --------------------------- | ---------
-| `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.wav` | 155.990.060                 | Originaldatei, unbearbeitet
-| `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.mp3` | 21.108.538                  | bearbeitet und umgewandelt
+| Dateiname                                                             | Dateigröße (in Byte)        | Aufnahmelänge (laut `ffprobe`) | Kommentar
+| --------------------------------------------------------------------- | --------------------------- | ---------------------------- | ---------
+| `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.wav` | 155.990.060                 | 00:29:28.59                  | Originaldatei, unbearbeitet
+| `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.mp3` | 21.108.538                  | 00:29:28.65                  | bearbeitet und umgewandelt
+
+Mein Smartphone[1] hatte bei der Aufnahme `00:29:09` angezeigt.
+
+[1] OnePlus One mit LineageOS 16.0 (Android 9)
 
 ## Checksummen
 ```no-highlight
