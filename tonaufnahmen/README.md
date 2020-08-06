@@ -46,9 +46,7 @@ Die Datei habe ich aus Speicherplatzgründen zu einer `mp3-Datei` umgewandelt:
 | `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.wav` | 155.990.060                 | 00:29:28.59                  | Originaldatei, unbearbeitet
 | `SoundRecord-2020-07-30-12-38-19_telefonat_mit_frau_kellerwessel.mp3` | 21.108.538                  | 00:29:28.65                  | bearbeitet und umgewandelt
 
-Mein Smartphone[1] hatte bei der Aufnahme `00:29:09` angezeigt.
-
-[1] OnePlus One mit LineageOS 16.0 (Android 9)
+Mein Smartphone<sup>[1](README.md#smartphone)</sup> hatte bei der Aufnahme `00:29:09` angezeigt.
 
 ## Checksummen
 ```no-highlight
@@ -65,3 +63,6 @@ BLAKE2: 502591626af4aa903434267f64d025f3ce8595e255caf231af9892f9004e5a97629d308a
 SHA256: 5372b5e84e4e7c1f4e414a472d175b47122bdc79e6918613679e6b3524b3da23
 SHA512: 9402f5b5c1218963888555d650571a595588beb8b321efcd8db6da1629b7090e189772b3a7cd869c1a84229943cdff009f7a0383dea8ee6b5575e6be69c69952
 ```
+# Fußnoten
+## smartphone
+OnePlus One mit LineageOS 16.0 (Android 9)
