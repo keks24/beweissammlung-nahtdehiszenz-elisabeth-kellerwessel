@@ -65,4 +65,4 @@ SHA512: 9402f5b5c1218963888555d650571a595588beb8b321efcd8db6da1629b7090e189772b3
 ```
 # Fußnoten
 ## smartphone
-OnePlus One mit LineageOS 16.0 (Android 9)
+<sup>1</sup> OnePlus One mit LineageOS 16.0 (Android 9)
