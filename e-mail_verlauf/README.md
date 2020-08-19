@@ -39,7 +39,7 @@ Frau Eberhart:
 Ich:
 > *Ich unterschrieb den Zettel. Wir hatten uns verabschiedet und ich bin darauf hin gegangen.*
 
-Randnotiz:
+### Randnotiz
 
 Meine Vermutung, die ich vor der Unterschrift hatte, hatte sich voll und ganz bestätigt: Die Behandlung hatte im Endeffekt tatsächlich ca. `322€` gekostet.
 
