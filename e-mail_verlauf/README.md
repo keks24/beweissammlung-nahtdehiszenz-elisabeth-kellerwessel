@@ -1,13 +1,13 @@
 # Gedankenprotokoll
-## [Diskussion mit Frau Eberhart im Arztraum vor der Operation (18.07.2020, ca. 20:00 Uhr)](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel/src/branch/master/e-mail_verlauf/Beschwerde%20und%20Entsch%c3%a4digung:%20Operation,%20Katze,%20EKH,%20Schmusi,%2018.07.2020.eml#L69-L70)
+## [Diskussion mit Frau Plorin im Arztraum vor der Operation (18.07.2020, ca. 20:00 Uhr)](https://codeberg.org/keks24/beweissammlung-nahtdehiszenz-elisabeth-kellerwessel/src/branch/master/e-mail_verlauf/Beschwerde%20und%20Entsch%c3%a4digung:%20Operation,%20Katze,%20EKH,%20Schmusi,%2018.07.2020.eml#L69-L70)
 
-Frau Eberhart:
+Frau Plorin:
 > Ich möchte Schmusi gerne nach der Operation für die Nacht hierbehalten, damit wir sie nach der Anästhesie beobachten können, da es hier zu Komplikationen kommen könnte.
 
 Ich:
 > Von mir aus könnte ich Schmusi auch nach der Operation mit nach Hause nehmen. Bei mir in der Nähe befindet sich ein Tierarzt, der nur fünf Minuten entfernt ist. Im Notfall würde ich dort hingehen.
 
-Frau Eberhart:
+Frau Plorin:
 > Ich möchte sehr gerne Schmusi operieren, wenn wir im Leerlauf sind und keinen Stress haben. Es könnte immer wieder sein, dass Notfälle reinkommen.
 > Wenn Sie unbedingt möchten, können Sie sie um gegen ca. 01:00 Uhr Nachts abholen. Aber ich empfehle, dass Schmusi die Nacht bei uns bleibt.
 > Denken Sie auch an Ihre Katze, die Ruhe braucht.
@@ -16,7 +16,7 @@ Ich:
 > Ich habe dabei auch an meine Katze gedacht.
 > Wenn ich Schmusi noch in der Nacht abhole, sind weniger Leute in Bus und Bahn; ich habe kein Auto. Vor fremden Leuten hat sie angst und dadurch könnte sie dann wesentlich entspannter mit mir nach Hause fahren.
 
-Frau Eberhart (wehrend):
+Frau Plorin (wehrend):
 > OK, dann holen Sie sie um 01:00 Uhr ab.
 > Oder noch besser als Kompromiss: Holen Sie sie um 07:00 Uhr ab.
 
@@ -25,7 +25,7 @@ Ich (nachgebend):
 > Ich muss Sie aber warnen: Es kann sein, dass Schmusi nach mir rufen wird, da sie unglaubliche Trennungsängste hat.
 > Schon, wenn ich nur 15 Minuten im Badezimmer bin, läuft sie durch die Wohnung und ruft nach mir.
 
-Frau Eberhart:
+Frau Plorin:
 > Wir werden Sie auf jeden Fall kontaktieren, wenn dieser Fall eintreffen sollte; wenn es gar nicht anders mehr geht.
 > Gut, dann sehen wir uns um 07:00 Uhr.
 > Wenn Sie noch diesen Zettel unterschreiben könnten. Die Operation wird auf auf jeden Fall unter `350€` kosten.
@@ -33,7 +33,7 @@ Frau Eberhart:
 Ich (mit meiner Skepsis und dem Gedanken, dass die Behandlung höchstwahrscheinlich nur ein `paar Euro weniger kosten` wird, als ihre Einschätzung):
 > *Ich lese mir gerade den Zettel durch.*
 
-Frau Eberhart:
+Frau Plorin:
 > Ja, lesen Sie sich das erstmal durch und unterschreiben dann.
 
 Ich:
